@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TrustLens AI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <h2>TrustLens</h2>
+    <button class="btn">+ New Analysis</button>
+
+    <div class="menu">
+      <p>Dashboard</p>
+      <p>My Documents</p>
+      <p>Analytics</p>
+    </div>
+  </div>
+
+  <!-- Main -->
+  <div class="main">
+
+    <!-- Upload -->
+    <div class="card">
+      <h3>Upload Contract</h3>
+      <input type="file" id="fileInput">
+      <button onclick="uploadFile()">Upload</button>
+    </div>
+
+    <!-- Ask -->
+    <div class="card">
+      <textarea id="question" placeholder="Ask about your contract..."></textarea>
+      <button onclick="askQuestion()">Analyze</button>
+    </div>
+
+    <!-- Explanation -->
+    <div class="card">
+      <h3>AI Explanation</h3>
+      <ul id="explanations"></ul>
+    </div>
+
+  </div>
+
+  <!-- Right Panel -->
+  <div class="right-panel">
+
+    <h3>Risk Overview</h3>
+
+    <div id="riskBadge" class="badge">-</div>
+
+    <div class="confidence-bar">
+      <div id="confidenceFill"></div>
+    </div>
+    <p id="confidenceText">Confidence: -</p>
+
+    <h4>Missing Clauses</h4>
+    <ul id="missing"></ul>
+
+    <h4>Suspicious Terms</h4>
+    <ul id="suspicious"></ul>
+
+  </div>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
