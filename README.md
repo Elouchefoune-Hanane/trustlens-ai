@@ -2,11 +2,9 @@
 
 **AI-powered contract analysis platform that detects risks, missing clauses, and suspicious terms using Retrieval-Augmented Generation (RAG) and trusted document comparison.**
 
-![Trustlens AI PowerPoint](
-https://www.canva.com/design/DAHFNLynY_s/VgNusvTZxKf6pRabjIwFhQ/edit?utm_content=DAHFNLynY_s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+[Trustlens AI PowerPoint](https://www.canva.com/design/DAHFNLynY_s/VgNusvTZxKf6pRabjIwFhQ/edit?utm_content=DAHFNLynY_s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![YouTube Trustlens Project Video]
-(https://youtu.be/jDNcZndPdIQ?si=Wd25U2g5RDJx-lqB)
+[YouTube Trustlens Project Video](https://youtu.be/jDNcZndPdIQ?si=Wd25U2g5RDJx-lqB)
 
 ---
 
