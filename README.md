@@ -183,15 +183,6 @@ AZURE_OPENAI_API=your_key
 AZURE_OPENAI_ENDPOINT=your_endpoint
 AZURE_OPENAI_DEPLOYMENT=gpt-4o-mini
 AZURE_OPENAI_EMBEDDING_DEPLOYMENT=embedding-model
-
-### Contributors
-Elizabeth Akindele
-Gloria Villa
-Hanane Elouchefoune
-Sadia Mehmood
-Aishat Osshileye
-
-
 AZURE_SEARCH_ENDPOINT=your_search_endpoint
 AZURE_SEARCH_KEY=your_search_key
 AZURE_SEARCH_INDEX=rag-final
@@ -226,3 +217,11 @@ uvicorn main:app --reload --port 8001
 ## 🏁 Conclusion
 
 **TrustLens AI makes contracts transparent, understandable, and safer — using AI to empower better decisions.**
+
+
+### Contributors
+Elizabeth Akindele
+Gloria Villa
+Hanane Elouchefoune
+Sadia Mehmood
+Aishat Osshileye
