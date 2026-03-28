@@ -226,6 +226,6 @@ uvicorn main:app --reload --port 8001
 ### Contributors
 - Elizabeth Akindele [Github](https://github.com/elizase405/TrustlensAI-Frontend)
 - Gloria Villa  [Github](https://github.com/ggrossvi/msft-ai-hackathon-2026-analyzer)
-- Hanane Elouchefoune
+- Hanane Elouchefoune [Github](https://github.com/Elouchefoune-Hanane/trustlens-ai)
 - Sadia Mehmood 
-- Aishat Osshileye
+- Aishat Oshileye
