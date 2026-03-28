@@ -228,4 +228,4 @@ uvicorn main:app --reload --port 8001
 - Gloria Villa  ![Github](https://github.com/ggrossvi/msft-ai-hackathon-2026-analyzer)
 - Hanane Elouchefoune
 - Sadia Mehmood 
-- Aishat Osshileye
+- Aishat Oshileye
