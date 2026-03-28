@@ -220,8 +220,8 @@ uvicorn main:app --reload --port 8001
 
 
 ### Contributors
-Elizabeth Akindele
-Gloria Villa
-Hanane Elouchefoune
-Sadia Mehmood
-Aishat Osshileye
+- Elizabeth Akindele
+- Gloria Villa
+- Hanane Elouchefoune
+- Sadia Mehmood 
+- Aishat Osshileye
