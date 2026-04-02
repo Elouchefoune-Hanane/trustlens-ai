@@ -227,5 +227,6 @@ uvicorn main:app --reload --port 8001
 - Elizabeth Akindele [Github](https://github.com/elizase405/TrustlensAI-Frontend)
 - Gloria Villa  [Github](https://github.com/ggrossvi/msft-ai-hackathon-2026-analyzer)
 - Hanane Elouchefoune [Github](https://github.com/Elouchefoune-Hanane/trustlens-ai)
-- Sadia Mehmood 
+- Sadia Mehmood — Project Concept, Architecture, Documentation, and Presentation
+- [Github](https://github.com/Saadiaminhaal?tab=repositories)
 - Aishat Oshileye
